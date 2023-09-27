@@ -1,0 +1,11 @@
+#game-container {
+    border: 2px solid #000;
+    display: inline-block;
+}
+
+#playing-board div {
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+  }
